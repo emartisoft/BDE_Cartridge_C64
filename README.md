@@ -1,6 +1,10 @@
 # BDE_Cartridge_C64
-BDE Cartridge for C64 (BASIC Dili Editörü Kartuşu)
+BDE Cartridge for C64 (BASIC Dili Editörü Kartuşu)<br>
 
+### Video
+https://youtu.be/88fDPpDG_co
+
+### Screenshot
 ![screenshot](https://github.com/emartisoft/BDE_Cartridge_C64/blob/master/screenshot.png?raw=true)
 
 ### Convert from PRG to CRT
